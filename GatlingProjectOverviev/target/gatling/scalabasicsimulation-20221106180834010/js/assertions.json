@@ -1,0 +1,10 @@
+{
+  "simulation": "computerdatabase.ScalaBasicSimulation",
+  "simulationId": "scalabasicsimulation",
+  "start": 1667758114010,
+  "description": "run",
+  "scenarios": ["Scenario Name"],
+  "assertions": [
+
+  ]
+}
